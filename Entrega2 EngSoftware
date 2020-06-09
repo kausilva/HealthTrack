@@ -1,0 +1,20 @@
+
+Ao iniciar novos projetos, as equipes precisam levantar informações a respeito das possibilidades que validem o andamento e a estruturação da ideia, conhecer o mercado, definir o público, conhecer os custos e entre outros.
+
+Muita ênfase é dada pelos profissionais de T.I. nas atividades de projeto e codificação. Isso deve-se em boa parte a formação dada aos profissionais de T.I. pelas universidades, que focam em suas grades curriculares principalmente em disciplinas técnicas e cientificas. Tem muito a ver também com perfil pessoal e cultural dos profissionais que atuam na área em geral, formada eminentemente por técnicos, bastante interessados em bits e bytes e pouco afetos a assuntos administrativos. Isso tem mudado bastante recentemente, pois os profissionais de T.I. têm percebido a importância da relação entre negócio e T.I. Entretanto, a atividade de levantamento de requisitos é de fundamental importância para que se construa o software certo, ou seja, é necessário antes de mais nada que os envolvidos no projeto de software saibam exatamente o que é esperado do aplicativo a ser construído. É muito importante também que todos os envolvidos saibam igualmente o que o software não fará. Isso pode parecer óbvio, mas nem sempre fica claro para todos os envolvidos do projeto sobre qual é a fronteira da aplicação. A fronteira da aplicação pode ser entendida como uma linha imaginária que circula e define objetivamente, dentre os requisitos de software, quais serão automatizados e quais não serão.
+
+Um engenheiro utiliza de um conjunto de atividades organizadas, usadas para definir, desenvolver, testar e manter um software. As atividades são:
+
+* Definição das atividades a serem executadas;
+* Quando determinada atividade deve ser executada;
+* Pessoa ou grupo a executar tais atividades;
+* Padronização no processo de desenvolvimento.
+
+No levantamento de requisitos (a primeira etapa no ciclo de desenvolvimento de software) ele compreende o problema,  e da aos desenvolvedores e usuários, a mesma visão do que deve ser construído para resolução do problema. 
+
+Os dados levantados auxiliam um gestor a tomar decisões concretas, possuindo uma base de interpretação e raciocínio. É importante ressaltar que dados são apenas dados se não possuírem um contexto no qual possam se interligar e assim se tornarem informações de peso e relevância. É a etapa mais importante do projeto e existem casos de projetos abandonados por não terem dado o certo valor ao levantamento de requisitos.
+
+Defina objetivos
+Saiba quais instrumentos de coleta de dados utilizar
+Selecione a amostra de estudo
+Análise e interpretação de dados
